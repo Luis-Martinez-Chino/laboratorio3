@@ -1,3 +1,6 @@
 # Laboratorio #03
-
-Nombre: Carlos Angulo; Carné: 1250826
+ 
+| Nombre           | Carnet        |
+|------------------|-----------|
+| Carlos Angulo        | 1250826   |
+| Luis Martinez        | 1081126   |
