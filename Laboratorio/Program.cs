@@ -4,6 +4,6 @@ Console.WriteLine("Laboratorio # 03");
 // Ingresar aquí nombre y carnet del dueño del repositorio
 Luis Martinez - 1081126
 // Ingresar aquí nombre y carnet del colaborador:
-
-Console.WriteLine("==========================================");
+Carlos Anugulo, 1250826
+Console.WriteLine("Carlos Anugulo, 1250826");
 Console.ReadLine();
